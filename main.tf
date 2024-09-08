@@ -75,8 +75,3 @@ resource "aws_instance" "client" {
     Name = "ClientInstance"
   }
 }
-Initialize Terraform
-terraform init
-	Plan and Apply
-		terraform plan
-		terraform apply
